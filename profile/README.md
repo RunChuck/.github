@@ -1,6 +1,7 @@
-# 🏃‍♀️ 러닝한다이
+# 러닝한다이
 > 🏆 2025 관광데이터 활용 공모전 우수상 🎖️부산관광공사 특별상 <br/>
-> 부산 지역 특화 러닝 코스 추천 서비스
+
+부산에서 러닝 코스를 찾는다면? [러닝한다이!](https://runninghandai.com)
 
 ![러닝한다이_서비스 소개 자료(short)-이미지-0](https://github.com/user-attachments/assets/181bf53e-c495-41db-87fa-651c134f1f39)
 ![러닝한다이_서비스 소개 자료(short)-이미지-1](https://github.com/user-attachments/assets/236f5505-4812-4fa0-a4c7-732c9df12018)
