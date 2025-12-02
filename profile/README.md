@@ -31,7 +31,7 @@
 개발 기간 : 2025.05 ~ 2025.10**
 > 
 
-| 안소용 | 제예영 | [우인경](https://github.com/InKyungWoo) |
+| [안소용](https://github.com/whiteyong) | 제예영 | [우인경](https://github.com/InKyungWoo) |
 | --- | --- | --- |
 | <img src="https://github.com/user-attachments/assets/c4ad82d1-8bad-4c66-a793-c7b255259289" width="250"> | <img src="https://github.com/user-attachments/assets/1e39d1d0-c967-4e52-bbf9-65e8b76d6d44" width="250"> | <img src="https://github.com/InKyungWoo.png" width="250"> |
 | PM, 기획 | 디자인 | 프론트엔드 개발 |
