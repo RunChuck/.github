@@ -7,6 +7,16 @@
 - 🏆 2025 관광데이터 활용 공모전 **우수상** 수상
 - 🎖️ 2025 관광데이터 활용 공모전 **부산관광공사 특별상** 수상
 
+## 팀원 및 개발 기간
+
+> **팀명 : TeamChuck**  
+> **개발 기간 : 2025.05 ~ 2025.09**
+
+| [안소용](https://github.com/whiteyong) | [제예영](https://jeyeyeong.netlify.app/) | [우인경](https://github.com/InKyungWoo) | [문수현](https://github.com/moonxxpower) | [한슬기](https://github.com/ssggii) |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c4ad82d1-8bad-4c66-a793-c7b255259289" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/1e39d1d0-c967-4e52-bbf9-65e8b76d6d44" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/InKyungWoo.png" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/6de9da7d-685b-44db-b467-3f96119a8e98" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/8657003b-d7a8-4f13-a82c-102b6a29194e" width="150" height="150" style="object-fit: cover;"> |
+| PM, 기획 | UI/UX 디자인 | 프론트엔드 개발 | 백엔드 개발 | 백엔드 개발 |
+
 ## 서비스 소개
 
 - 서비스 바로가기 : https://runninghandai.com/
@@ -22,21 +32,3 @@
 ![러닝한다이_서비스 소개 자료(short)_00008](https://github.com/user-attachments/assets/7e08e2fc-f712-4b49-a4e9-a99f811cbd8d)
 ![러닝한다이_서비스 소개 자료(short)_00009](https://github.com/user-attachments/assets/c028f7bd-4239-4a27-ba35-610199a7fc3a)
 ![러닝한다이_서비스 소개 자료(short)_00010](https://github.com/user-attachments/assets/74decf7d-e703-4463-bcc2-786010c86feb)
-
-
-## 팀원 및 개발 기간
-
-
-> **팀명 : TeamChuck<br>
-개발 기간 : 2025.05 ~ 2025.10**
-> 
-
-| [안소용](https://github.com/whiteyong) | 제예영 | [우인경](https://github.com/InKyungWoo) |
-| --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/c4ad82d1-8bad-4c66-a793-c7b255259289" width="250"> | <img src="https://github.com/user-attachments/assets/1e39d1d0-c967-4e52-bbf9-65e8b76d6d44" width="250"> | <img src="https://github.com/InKyungWoo.png" width="250"> |
-| PM, 기획 | 디자인 | 프론트엔드 개발 |
-
-| [문수현](https://github.com/moonxxpower) | [한슬기](https://github.com/ssggii) |
-| --- | --- |
-| <img src="https://github.com/user-attachments/assets/6de9da7d-685b-44db-b467-3f96119a8e98" width="250"> | <img src="https://github.com/user-attachments/assets/8657003b-d7a8-4f13-a82c-102b6a29194e" width="250"> |
-| 백엔드 개발 | 백엔드 개발 |
