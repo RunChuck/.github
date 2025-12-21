@@ -14,8 +14,10 @@
 
 | [안소용](https://github.com/whiteyong) | [제예영](https://jeyeyeong.netlify.app/) | [우인경](https://github.com/InKyungWoo) | [문수현](https://github.com/moonxxpower) | [한슬기](https://github.com/ssggii) |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c4ad82d1-8bad-4c66-a793-c7b255259289" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/1e39d1d0-c967-4e52-bbf9-65e8b76d6d44" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/InKyungWoo.png" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/6de9da7d-685b-44db-b467-3f96119a8e98" width="150" height="150" style="object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/8657003b-d7a8-4f13-a82c-102b6a29194e" width="150" height="150" style="object-fit: cover;"> |
+| <img src="https://github.com/user-attachments/assets/11ecd1f8-ef16-476f-bf3d-9ead83967aa3" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/1e39d1d0-c967-4e52-bbf9-65e8b76d6d44" width="150" height="150"> | <img src="https://github.com/InKyungWoo.png" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/6de9da7d-685b-44db-b467-3f96119a8e98" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/a90e7d75-f6d3-428c-913c-7e7e3ce6003f" width="150" height="150"> |
 | PM, 기획 | UI/UX 디자인 | 프론트엔드 개발 | 백엔드 개발 | 백엔드 개발 |
+
+<br>
 
 ## 서비스 소개
 
